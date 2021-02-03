@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Hi!
 
-You can use the [editor on GitHub](https://github.com/Krumelur/pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm happy you're here, although I don't exactly know what it is that you're looking for. :-)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [**Blog posts**](content/blog/index.md)
+* **Information about me** - just scroll down
 
-### Markdown
+## Me, myself and I
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I’m a software developer from Germany. I started programming in Turbo Pascal and x86 assembler back in the 1990s.
 
-```markdown
-Syntax highlighted code block
+Later, I studied and achieved my MSc in Computer Science. This involved lots of C, C++, Java, and even [ADA](https://en.wikipedia.org/wiki/Ada_(programming_language)) - and none of these languages made me particularly happy. But then I discovered Microsoft's C# and it was a game changer. Over the years, I have learned that C# is the language I love most and I was able to use it extensively in my career.
 
-# Header 1
-## Header 2
-### Header 3
+These days I work for Microsoft in the "Learn" team, building solutions to help every person on the planet to achieve more and have the opportunity to learn. Go, !(https://docs.microsoft.com/learn)[check it out]!
 
-- Bulleted
-- List
+### Let's stay in touch
 
-1. Numbered
-2. List
+* The easiest way to contact me is by email. It's a gmail.com account named  `rene.ruppert`
+* [LinkedIn](https://de.linkedin.com/in/krumelur?trk=profile-badge)
+* I'm active on StackOverflow.com
+    
+    ![profile for Krumelur at Stack Overflow, Q&A for professional and enthusiast programmers](https://stackoverflow.com/users/flair/304870.png)
+* Github [https://github.com/krumelur](https://github.com/krumelur)
 
-**Bold** and _Italic_ and `Code` text
+### What is a Krumelur?
 
-[Link](url) and ![Image](src)
-```
+I don't exactly know. But here’s the story behind it being my avatar and alias: when I was grumpy once my wive told me to stop grumbling - in German, that's “grummeln”. Hence, she called me a “Grummelur”. Later while shopping at IKEA we found a cushion/animal called “Krumelur” and she said “look, that’s you!”. That’s when I started using it as an alias.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![IKEA's Krumelur](krumelur.png)
 
-### Jekyll Themes
+_Fun fact: one of my former coworkers from Finland once explained that “krumeluuri” would be useless stuff one has at home…_
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Krumelur/pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![](//c-sharx.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
 
-### Support or Contact
+![](https://c-sharx.net/wp-content/uploads/2018/06/Krumelur.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+IKEA’s Krumelur
+
+René Ruppert  
+[info@c-sharx.net](mailto:info@c-sharx.net)

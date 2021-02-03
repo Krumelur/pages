@@ -1,3 +1,5 @@
+# Irgendwann um 1940: "Erika aus Buchwalde"
+
 Letztens fand ich ein Tagebuch meines Großvaters [Manfred Bacher](https://de.wikipedia.org/wiki/Manfred_Bacher) , welches er während des zweiten Weltkrieges schrieb. Die Beschreibungen darin gehen mir sehr zu Herzen, aber eine Geschichte ist so speziell, dass ich sie hier niederschreiben möchte. Meine stille Hoffnung: vielleicht lebt die betroffene Dame namens Erika Schwarz noch und vielleicht googelt eines ihrer Kinder, Enkel oder Urenkel nach ihrem Namen und findet diese Geschichte hier. Vielleicht möchte sich Erika dann mit mir in Verbindung setzen, denn ich würde nur zu gerne wissen, was aus ihr geworden ist.
 
 ![Seite aus dem Tagebuch](tagebuch.jpeg)
