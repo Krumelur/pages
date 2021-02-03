@@ -29,12 +29,3 @@ I don't exactly know. But here’s the story behind it being my avatar and alias
 ![IKEA's Krumelur](krumelur.png)
 
 _Fun fact: one of my former coworkers from Finland once explained that “krumeluuri” would be useless stuff one has at home…_
-
-![](//c-sharx.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
-
-![](https://c-sharx.net/wp-content/uploads/2018/06/Krumelur.png)
-
-IKEA’s Krumelur
-
-René Ruppert  
-[info@c-sharx.net](mailto:info@c-sharx.net)
