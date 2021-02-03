@@ -99,17 +99,15 @@ And I really invested a lot of time into the graphics. Again, I’m not a talent
 
 It adds additional components to the traditional gameplay: Ferris can turn himself invisible to avoid enemies. Some levels allow climbing into a helicopter. There are also a couple of boss enemies in the game. I really spent a lot of time on this game.
 
-![](//c-sharx.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
 
-![](https://c-sharx.net/wp-content/uploads/2018/06/ferris.png)
+![](ferris.png)
 
 Ferris The Wanderer
 
 If you want to give Ferris a try, [download it here](https://www.dropbox.com/s/eb36ia9o13318rg/Ferris.zip) . It comes with all the source and a level editor. Of course there’s a cheat mode: pause the game by pressing **P** . Then type **F E R R I S** (slowly!). Unpause. Now you can use **SHIFT+F1 to SHIFT+F8** to do various things.
 
-And then?
-=========
+## And then?
 
 In 1994 times changed. Not only did I turn 18 and became interested in other things. I did not have the time anymore to sit and code for days and weeks. Also the hardware changed. Windows took over and it was hard to access the hardware. Games became bigger, better. I rather consumed them.
 
-In 2008 the excitement came back: I bought an iPhone. A powerful platform with defined hardware. I haven’t made any games for it so far but decided that developing for this mobile platform is what I’m going to do for living: [http://c-sharX.net](https://c-sharx.net/)
+In 2008 the excitement came back: I bought an iPhone. Now (2021), I'm using Godot to develop a classic isometric game.
