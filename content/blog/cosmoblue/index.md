@@ -13,3 +13,24 @@ Navigate 8-bit corridors, decipher retro-futuristic mishaps, and try to contain 
 ## Support
 
 Contact me for any support issues at rene.ruppert@gmail.com
+
+## Privacy Policy
+
+This app does not process any personal data within the meaning of the General Data Protection Regulation (GDPR) or any other data protection laws.
+
+### Collection and Processing of Data
+
+The app:
+* does not collect any personal data,
+* does not store any information about users,
+* does not use any tracking tools,
+* does not use any analytics or marketing services,
+* does not transmit any data to external servers.
+
+### Permissions
+
+The app does not request any permissions that involve personal data.
+
+### Third Parties / Data Sharing
+
+No data is shared with third parties.
