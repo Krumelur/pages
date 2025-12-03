@@ -1,5 +1,11 @@
 # Blog
 
+## Dezember 2025: Cosmo-Blue
+
+Ich habe ein Retro-Game veröffentlicht!
+
+[-> read more](cosmoblue/index.md)
+
 ## September 2018: Segeln mit der Familie in Sukošan (Kroatien)
 
 Dieser Post soll all denen helfen, die sich überlegen, ob es eine gute Idee ist, mit Partner und Kindern auf einen (kurzen) Segeltörn zu gehen. Die kurze Antwort: tut es! Aber jetzt im Detail.
