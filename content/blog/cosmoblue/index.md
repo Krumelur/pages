@@ -8,7 +8,7 @@ Navigate 8-bit corridors, decipher retro-futuristic mishaps, and try to contain 
 ## Availabilty
 
 * Play browser version for free on https://krumelursoft.itch.io/cosmo-blue
-* Get native iPad/Mac App on App Store
+* Get native iPhone/iPad/Mac (Apple Silicon)/Vision Pro App on App Store: https://apps.apple.com/us/app/cosmo-blue/id6756027164
 
 ## Support
 
