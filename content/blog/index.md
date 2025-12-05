@@ -2,9 +2,8 @@
 
 ## Dezember 2025: Cosmo-Blue
 
-Ich habe ein Retro-Game veröffentlicht!
-
-[-> read more](cosmoblue/index.md)
+* Ich habe ein Retro-Game veröffentlicht / I published a retro game: [-> read more](cosmoblue/index.md)
+* Find the walkthrough here: [-> Lösung Deutsch](cosmoblue/walkthrough_de.md) and there [-> Walkthrough English](cosmoblue/walkthrough_en.md)
 
 ## September 2018: Segeln mit der Familie in Sukošan (Kroatien)
 
